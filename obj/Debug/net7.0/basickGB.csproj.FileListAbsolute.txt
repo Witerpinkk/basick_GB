@@ -1,0 +1,14 @@
+C:\Users\korze\OneDrive\Рабочий стол\basickGB\obj\Debug\net7.0\basickGB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korze\OneDrive\Рабочий стол\basickGB\obj\Debug\net7.0\basickGB.AssemblyInfoInputs.cache
+C:\Users\korze\OneDrive\Рабочий стол\basickGB\obj\Debug\net7.0\basickGB.AssemblyInfo.cs
+C:\Users\korze\OneDrive\Рабочий стол\basickGB\obj\Debug\net7.0\basickGB.csproj.CoreCompileInputs.cache
+C:\Users\korze\OneDrive\Рабочий стол\basickGB\bin\Debug\net7.0\basickGB.exe
+C:\Users\korze\OneDrive\Рабочий стол\basickGB\bin\Debug\net7.0\basickGB.deps.json
+C:\Users\korze\OneDrive\Рабочий стол\basickGB\bin\Debug\net7.0\basickGB.runtimeconfig.json
+C:\Users\korze\OneDrive\Рабочий стол\basickGB\bin\Debug\net7.0\basickGB.dll
+C:\Users\korze\OneDrive\Рабочий стол\basickGB\bin\Debug\net7.0\basickGB.pdb
+C:\Users\korze\OneDrive\Рабочий стол\basickGB\obj\Debug\net7.0\basickGB.dll
+C:\Users\korze\OneDrive\Рабочий стол\basickGB\obj\Debug\net7.0\refint\basickGB.dll
+C:\Users\korze\OneDrive\Рабочий стол\basickGB\obj\Debug\net7.0\basickGB.pdb
+C:\Users\korze\OneDrive\Рабочий стол\basickGB\obj\Debug\net7.0\basickGB.genruntimeconfig.cache
+C:\Users\korze\OneDrive\Рабочий стол\basickGB\obj\Debug\net7.0\ref\basickGB.dll
